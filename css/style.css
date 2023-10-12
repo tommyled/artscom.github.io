@@ -369,6 +369,7 @@ body {
   padding-bottom: 10px;
   display: grid;
   align-items: center;
+  overflow: scroll;
 }
 
 .links {
