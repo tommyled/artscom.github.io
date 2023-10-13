@@ -342,7 +342,7 @@ body {
 @media only screen and (min-width: 1080px) {
   .additional-background {
     display: block;
-    background-image: url(./../assets/back.png);
+    background-image: url(./../assets/back_.png);
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
